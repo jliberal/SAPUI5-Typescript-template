@@ -1,0 +1,9 @@
+<mvc:View
+	controllerName="cl.aquas.developments.templates.zui5tstemplate.controller.App"
+	displayBlock="true"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc">
+
+	<App id="app" />
+
+</mvc:View>
